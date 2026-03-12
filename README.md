@@ -1,20 +1,22 @@
 <p align="center">
-<img src="banner.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:4e54c8&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;AI+and+Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Collaboration" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sharan+Nanda+Kumar;Information+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
 </p>
-
-# Hi 👋 I'm Sharan Nanda Kumar
-
-💻 Information Science Engineering Student  
-🎓 Atria Institute of Technology  
-🎓 Graduation: 2027  
 
 ---
 
-# 🌐 Connect With Me
+# Hi 👋 I'm Sharan Nanda Kumar
+
+💻 **Information Science Engineering Student**
+🎓 **Atria Institute of Technology**
+🎓 **Graduation: 2027**
+
+---
+
+## 🌐 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/sharan-n-k-2k42k42k4/">
@@ -32,7 +34,7 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git,linux"/>
@@ -40,15 +42,15 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-[![LangAssist](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=LangAssist&theme=tokyonight)](https://github.com/sharantantadan/LangAssist)
+[![LangAssist](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan\&repo=LangAssist\&theme=tokyonight)](https://github.com/sharantantadan/LangAssist)
 
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=ecommerce-website&theme=tokyonight)](https://github.com/sharantantadan/ecommerce-website)
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan\&repo=ecommerce-website\&theme=tokyonight)](https://github.com/sharantantadan/ecommerce-website)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight">
@@ -56,7 +58,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight">
@@ -64,7 +66,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&theme=tokyo-night">
@@ -72,16 +74,24 @@
 
 ---
 
-# 🧠 Currently Learning
+## 🏆 GitHub Trophies
 
-• Machine Learning  
-• Computer Vision  
-• AI System Design  
-• Backend Development  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sharantantadan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-# 👀 Profile Views
+## 🧠 Currently Learning
+
+• Machine Learning
+• Computer Vision
+• AI System Design
+• Backend Development
+
+---
+
+## 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20views&color=blue&style=flat">
