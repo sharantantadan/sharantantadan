@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:003300&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Information%20Science%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=58&descColor=00cc44&stroke=39FF14&strokeWidth=1"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sharan+Nanda+Kumar;Information+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sharan+Nanda+Kumar;Information+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
 </p>
 
 ---
@@ -37,10 +37,10 @@
 
 <p align="center">
 <a href="https://github.com/sharantantadan/LangAssist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=LangAssist&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=LangAssist&theme=tokyonight&border_color=39FF14&border_radius=12"/>
 </a>
 <a href="https://github.com/sharantantadan/ecommerce-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=ecommerce-website&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=ecommerce-website&theme=tokyonight&border_color=39FF14&border_radius=12"/>
 </a>
 </p>
 
@@ -49,7 +49,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight&border_color=39FF14&border_radius=12&icon_color=39FF14&title_color=39FF14"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight&border=00F7FF&border_radius=12"/>
+<img src="https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight&border=39FF14&border_radius=12&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&theme=tokyo-night&radius=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&theme=tokyo-night&radius=12&color=39FF14&line=39FF14&point=ffffff"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20Views&color=00F7FF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20Views&color=39FF14&style=flat"/>
 </p>
 
 ---
