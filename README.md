@@ -1,9 +1,19 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38"/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Sharan%20Nanda%20Kumar&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=45"/>
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=Hi+I'm+Sharan+Nanda+Kumar;Information+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5%3A30)-39FF14?style=for-the-badge&logo=clockify&logoColor=39FF14&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-39FF14?style=for-the-badge&logo=googlemaps&logoColor=39FF14&labelColor=0d1117"/>
 </p>
 
 ---
