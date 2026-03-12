@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:003300&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Information%20Science%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=58&descColor=00cc44&stroke=39FF14&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sharan+Nanda+Kumar;Information+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=Hi+I'm+Sharan+Nanda+Kumar;Information+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20Views&color=39FF14&style=flat"/>
@@ -99,4 +99,4 @@
 
 ---
 
-⭐ Always interested in building impactful projects and collaborating with other developers.
+Always interested in building impactful projects and collaborating with other developers.
