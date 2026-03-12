@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:4e54c8&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sharan%20Nanda%20Kumar&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
@@ -8,33 +8,38 @@
 
 ---
 
-# Hi 👋 I'm Sharan Nanda Kumar
+# 👨‍💻 About Me
 
-💻 **Information Science Engineering Student**
-🎓 **Atria Institute of Technology**
-🎓 **Graduation: 2027**
+| | |
+|---|---|
+| 💻 **Degree** | B.E. Information Science |
+| 🎓 **College** | Atria Institute of Technology |
+| 📅 **Graduation** | 2027 |
+| 🤖 **Focus** | AI, Machine Learning, Software Systems |
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p>
+<p align="center">
+
 <a href="https://www.linkedin.com/in/sharan-n-k-2k42k42k4/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://www.instagram.com/sharan._x?igsh=MXQxdm12cWx6ZDh5MQ==">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
 </a>
 
 <a href="mailto:sharannandakumar2k4@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
 </a>
+
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git,linux"/>
@@ -42,59 +47,67 @@
 
 ---
 
-## 🚀 Featured Projects
-
-[![LangAssist](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan\&repo=LangAssist\&theme=tokyonight)](https://github.com/sharantantadan/LangAssist)
-
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan\&repo=ecommerce-website\&theme=tokyonight)](https://github.com/sharantantadan/ecommerce-website)
-
----
-
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight">
+
+<a href="https://github.com/sharantantadan/LangAssist">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=LangAssist&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
+</a>
+
+<a href="https://github.com/sharantantadan/ecommerce-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=ecommerce-website&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
+</a>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&theme=tokyo-night">
+
+<img src="https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight&border=00F7FF&border_radius=12"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sharantantadan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&theme=tokyo-night&radius=12"/>
+
 </p>
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
-• Machine Learning
-• Computer Vision
-• AI System Design
-• Backend Development
+• Machine Learning  
+• Computer Vision  
+• AI System Design  
+• Backend Development  
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20views&color=blue&style=flat">
+
+<img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20Views&color=00F7FF&style=flat"/>
+
 </p>
 
 ---
