@@ -24,15 +24,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sharan-n-k-2k42k42k4/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="60"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/sharan._x?igsh=MXQxdm12cWx6ZDh5MQ==">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:sharannandakumar2k4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="90"/>
 </a>
 
 </p>
