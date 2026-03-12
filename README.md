@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Sharan%20Nanda%20Kumar&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=45"/>
+  <img src="./matrix-banner.svg" width="100%"/>
 </p>
 
 <p align="center">
