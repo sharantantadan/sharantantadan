@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Sharan%20Nanda%20Kumar&fontSize=40&fontColor=ffffff" />
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;AI+and+Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Collaboration" />
@@ -12,7 +14,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/sharan-n-k-2k42k42k4/">
@@ -30,41 +32,47 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git,linux"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 LangAssist
-AI language assistant built using NLP techniques for language understanding and assistance.
+[![LangAssist](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=LangAssist&theme=tokyonight)](https://github.com/sharantantadan/LangAssist)
 
-### 🔹 E-Commerce Website
-Full-stack online shopping platform built using web technologies.
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=ecommerce-website&theme=tokyonight)](https://github.com/sharantantadan/ecommerce-website)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![streak](https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight">
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 GitHub Streak
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&theme=tokyo-night)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight">
+</p>
 
 ---
 
-## 🧠 Currently Learning
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&theme=tokyo-night">
+</p>
+
+---
+
+# 🧠 Currently Learning
 
 • Machine Learning  
 • Computer Vision  
@@ -73,8 +81,12 @@ Full-stack online shopping platform built using web technologies.
 
 ---
 
-⭐ Always interested in building impactful projects and collaborating with other developers.
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20views&color=blue&style=flat">
+</p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20views&color=blue&style=flat" />
+⭐ Always interested in building impactful projects and collaborating with other developers.
