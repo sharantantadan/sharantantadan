@@ -21,25 +21,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sharan-n-k-2k42k42k4/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="60"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/sharan._x?igsh=MXQxdm12cWx6ZDh5MQ==">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:sharannandakumar2k4@gmail.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="60"/>
-</a>
-
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/sharan-n-k-2k42k42k4/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/sharan._x?igsh=MXQxdm12cWx6ZDh5MQ=="><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="55"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sharannandakumar2k4@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="55"/></a></p>
 
 ---
 
@@ -54,15 +36,12 @@
 # 🚀 Featured Projects
 
 <p align="center">
-
 <a href="https://github.com/sharantantadan/LangAssist">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=LangAssist&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
 </a>
-
 <a href="https://github.com/sharantantadan/ecommerce-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharantantadan&repo=ecommerce-website&theme=tokyonight&border_color=00F7FF&border_radius=12"/>
 </a>
-
 </p>
 
 ---
@@ -93,10 +72,10 @@
 
 # 🧠 Currently Learning
 
-• Machine Learning  
-• Computer Vision  
-• AI System Design  
-• Backend Development  
+- Machine Learning  
+- Computer Vision  
+- AI System Design  
+- Backend Development  
 
 ---
 
