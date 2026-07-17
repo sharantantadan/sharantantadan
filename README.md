@@ -1,85 +1,93 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0b2552&height=200&section=header&text=SHARAN%20NANDA%20KUMAR&fontSize=40&fontColor=89CFF0&animation=fadeIn&fontAlignY=35)](https://github.com/sharantantadan)
+\documentclass[a4paper,10pt]{article}
 
-# ꜱʜᴀʀᴀɴ ɴᴀɴᴅᴀ ᴋᴜᴍᴀʀ
+\usepackage[margin=0.35in,top=0.3in,bottom=0.3in]{geometry} 
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=true, allcolors=black}
 
-*AI & Machine Learning Enthusiast / Full Stack Developer*
+\pagestyle{empty}
 
-I am an Information Science & Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Full Stack Development, currently building projects across Python, Java, and the MERN/Node stack.
+\titleformat{\section}{\normalsize\bfseries\scshape}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{3pt}{2pt} 
 
-* 🎓 B.E. in Information Science & Engineering, Atria Institute of Technology (VTU) — Graduating 2027
-* 🌱 Currently strengthening my DSA (Java), Data Analytics, and Machine Learning fundamentals
-* ⚙️ Focused on backend development with Node.js & Express
-* 📍 Based in Bengaluru, Karnataka, India
-* 💥 Always open to collaborating on AI/ML and full stack projects
+\setlist[itemize]{leftmargin=12pt,itemsep=0pt,parsep=0pt,topsep=0pt,after=\vspace{1pt}}
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sharantantadan&label=Profile%20Views&color=770677&style=for-the-badge)](https://github.com/sharantantadan)
+\newcommand{\role}[3]{\textbf{#1} \hfill #2 \\ \textit{#3}\vspace{1pt}}
 
----
+\begin{document}
+\sloppy
+\raggedbottom
 
-## Tᴇᴄʜ Sᴛᴀᴄᴋ
+%==================== HEADER ====================
+\begin{center}
+{\LARGE\textbf{SHARAN NANDA KUMAR}}\\[1pt]
+Bengaluru, India \ $\vert$ \ +91-6361693376 \ $\vert$ \ \href{mailto:sharannandakumar2k4@gmail.com}{sharannandakumar2k4@gmail.com} \ $\vert$ \ USN: 1AT23IS151\\[1pt]
+\href{https://linkedin.com/in/sharan-n-k-2k4}{linkedin.com/in/sharan-n-k-2k4} \ $\vert$ \
+\href{https://github.com/sharannandakumar2k4}{github.com/sharannandakumar2k4} \ $\vert$ \
+\href{https://leetcode.com/u/sharannandakumar2k4}{leetcode.com/u/sharannandakumar2k4}
+\end{center}
+\vspace{-14pt}
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,express,mysql,mongodb,git,github,linux,vscode,tableau&theme=dark" />
-</p>
+%==================== EDUCATION ====================
+\section*{Education}
+\role{Bachelor of Engineering, Information Science \& Engineering -- Atria Institute of Technology, Bengaluru}{2022 -- 2027}{CGPA: 7.9 / 10}
+\begin{itemize}
+\item \textbf{Pre-University Course (PUC):} 89\% \hfill \textbf{10th Std. (SSLC):} 96\%
+\end{itemize}
 
-### Currently Learning
+%==================== SUMMARY ====================
+\section*{Professional Summary}
+Information Science \& Engineering undergraduate combining an engineering mindset with strong core software development principles and an active focus on test automation pipelines. Proficient in designing automated testing scripts, writing optimized backend validation routes, and managing relational system schemas. A proactive developer and problem-solver eager to leverage JavaScript, REST APIs, and autonomous debugging frameworks to build intelligent, resilient quality systems at GoComet.
 
-* 📊 Data Structures & Algorithms (Java)
-* 📈 Data Analytics (Pandas, NumPy, Matplotlib, Tableau)
-* 🤖 Machine Learning Fundamentals (scikit-learn)
-* ⚙️ Backend Development with Node.js & Express
+%==================== TECHNICAL SKILLS ====================
+\section*{Technical Skills}
+\begin{itemize}
+\item \textbf{Engineering & Automation Track:} Automated Test Execution Concepts, Workflow Observability, Structural Bug Diagnosis, Script Validation, Web \& API Evaluation, System Assertions
+\item \textbf{Languages & Core Coding:} JavaScript (ES6+), Java, Python, HTML5, CSS3, Data Structures \& Algorithms (DSA), Object-Oriented Programming (OOP)
+\item \textbf{Backend & Integrations:} Node.js, Express.js, REST API Design, JSON Payload Processing, Network Route Validations
+\item \textbf{Databases & Infrastructure:} SQL (MySQL), Relational Database Management (DBMS), Schema Architecture Optimization, Git/GitHub Version Control
+\item \textbf{Tools & Workflows:} Postman API Client, VS Code, Jupyter Notebook, Pandas Data Wrangling, Agile/Scrum Methodologies
+\end{itemize}
 
----
+%==================== EXPERIENCE ====================
+\section*{Internship Experience}
+\role{Java Development Intern}{Embrizon Technologies}{Bengaluru, India}
+\begin{itemize}
+\item Programmed procedural backend processing workflows using structured Java and Object-Oriented Design (OOP) principles.
+\item Built robust structural validation modules and multi-tier exception routing to handle error boundaries across localized configurations.
+\item Handled end-to-end exception logging and runtime sanity checks, preventing execution crashes before build compilation cycles.
+\item Coordinated closely with development peers to perform structural code refactoring, system regression sweeps, and routine optimization testing.
+\end{itemize}
 
-## 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
+%==================== PROJECTS ====================
+\section*{Projects}
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sharantantadan&no-bg=true&no-frame=true&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/sharantantadan)
+\role{LangAssist -- Asynchronous AI Agent Platform \& Testing Track}{Team Project}{JavaScript, Google Gemini API, Git/GitHub, Agile Frameworks}
+\begin{itemize}
+\item Co-developed a modular language processing platform, setting up runtime metrics tracking across heavy asynchronous API data streams.
+\item Programmed verification scripts to monitor dynamic JSON structural payloads, managing incremental script updates cleanly inside Git.
+\item Configured automated test case strategies to capture backend failures, maintaining baseline execution security across development sprints.
+\end{itemize}
 
----
+\role{Data-Driven Analytics Engine \& Observability Pipeline}{Personal Project}{Python, SQL, Advanced MS Excel, Power BI}
+\begin{itemize}
+\item Devised an algorithmic processing suite cleaning, normalizing, and structuring multi-source metric records into single database targets.
+\item Wrote optimized relational SQL queries to execute thorough gap analysis and isolate performance bottlenecks across mock data clusters.
+\item Tracked runtime error arrays to populate detailed validation summary reports, ensuring data consistency across deployment checkpoints.
+\end{itemize}
 
-## 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
+%==================== ACTIVITIES & COMPETITIVE PROFILE ====================
+\section*{Activities & Hobbies}
+\begin{itemize}
+\item \textbf{Competitive Programming:} Resolving multi-tier Data Structures and Algorithms logic puzzles on LeetCode to continuously advance system problem-solving metrics.
+\item \textbf{Technical Leadership (Sergeant-at-Arms, Rotaract Club):} Structured workplans, managed distributed technical task tracking paths, and engineered report documentation profiles for executive board evaluations.
+\end{itemize}
 
-|  |  |
-| --- | --- |
-| **Gɪᴛʜᴜʙ Sᴛᴀᴛs**  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharantantadan&show_icons=true&theme=tokyonight&border_color=89CFF0&hide_border=false)](https://github.com/sharantantadan) | **Sᴛʀᴇᴀᴋ Sᴛᴀᴛs**  [![Streak Stats](https://streak-stats.demolab.com/?user=sharantantadan&theme=tokyonight&border=89CFF0)](https://github.com/sharantantadan) |
-| **Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ**  [LangAssist](https://github.com/sharantantadan/LangAssist) | **ᴇᴄᴏᴍᴍᴇʀᴄᴇ ᴡᴇʙsɪᴛᴇ**  [ecommerce-website](https://github.com/sharantantadan/ecommerce-website) |
+%==================== CERTIFICATIONS ====================
+\section*{Certifications}
+\begin{itemize}
+\item Git, GitHub, and Tech Architecture Project Essentials $\vert$ React.js and Modern JavaScript Fundamentals $\vert$ Complete Data Science and Analytics Fundamentals $\vert$ Advanced Software Engineering and Quality Automation Frameworks
+\end{itemize}
 
----
-
-## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharantantadan&bg_color=220a28&color=89CFF0&line=89CFF0&point=ffffff&area=true&hide_border=true)](https://github.com/sharantantadan)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharantantadan/sharantantadan/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%"/>
-</p>
-
----
-
-## 🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟
-
-[![Quote](https://readme-quotes-api.vercel.app/api?author=Sharan%20Nanda%20Kumar&theme=dark&bg_color=220a28&author_color=89CFF0&accent_color=c56a90)](https://github.com/sharantantadan)
-
----
-
-## 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharan-n-k-2k42k42k4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:sharannandakumar2k4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sharan._x">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sharantantadan">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0b2552&height=120&section=footer)](https://github.com/sharantantadan)
+\end{document}
