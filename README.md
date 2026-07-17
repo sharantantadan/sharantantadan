@@ -83,14 +83,14 @@ An automated data framework designed to capture, transform, and map multi-source
 
 ---
 
-# 📊 GitHub Analytics
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sharannandakumar2k4&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharannandakumar2k4&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=sharannandakumar2k4&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
+------
 
 # 🌐 Connect With Me
 
