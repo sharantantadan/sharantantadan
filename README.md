@@ -86,16 +86,8 @@ An automated data framework designed to capture, transform, and map multi-source
 # 📊 Performance Metrics & Analytics
 
 <p align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sharannandakumar2k4&show_icons=true&theme=tokyonight"/>
-<img height="175em" src="https://leetcode-stats-github-cloud.vercel.app/?username=sharannandakumar2k4&theme=dark" alt="LeetCode Scoreboard" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharannandakumar2k4&theme=tokyonight" alt="GitHub Streak" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sharannandakumar2k4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="175em" src="https://leetcard.jacoblin.cool/sharannandakumar2k4?theme=fontcolor=ffffff&bg_color=0f141c&label_color=00d9ff" alt="LeetCode Scoreboard" />
 </p>
 
 ---
