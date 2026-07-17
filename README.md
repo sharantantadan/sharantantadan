@@ -1,93 +1,115 @@
-\documentclass[a4paper,10pt]{article}
+# Hi 👋, I'm Sharan Nanda Kumar
 
-\usepackage[margin=0.35in,top=0.3in,bottom=0.3in]{geometry} 
-\usepackage{enumitem}
-\usepackage{titlesec}
-\usepackage[hidelinks]{hyperref}
-\hypersetup{colorlinks=true, allcolors=black}
+<h3 align="center">
+Information Science Engineer • Data Analyst & Automation Architect • B2B Technical SDR
+</h3>
 
-\pagestyle{empty}
+<p align="center">
+Building automated testing tracks, data engineering pipelines, and value-driven AI integration layers.
+</p>
 
-\titleformat{\section}{\normalsize\bfseries\scshape}{}{0em}{}[\titlerule]
-\titlespacing*{\section}{0pt}{3pt}{2pt} 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sharannandakumar2k4&label=Profile%20Views&color=ff0077&style=flat"/>
+</p>
 
-\setlist[itemize]{leftmargin=12pt,itemsep=0pt,parsep=0pt,topsep=0pt,after=\vspace{1pt}}
+---
 
-\newcommand{\role}[3]{\textbf{#1} \hfill #2 \\ \textit{#3}\vspace{1pt}}
+# 🚀 About Me
 
-\begin{document}
-\sloppy
-\raggedbottom
+🎓 **Information Science & Engineering** Undergraduate at **Atria Institute of Technology**
 
-%==================== HEADER ====================
-\begin{center}
-{\LARGE\textbf{SHARAN NANDA KUMAR}}\\[1pt]
-Bengaluru, India \ $\vert$ \ +91-6361693376 \ $\vert$ \ \href{mailto:sharannandakumar2k4@gmail.com}{sharannandakumar2k4@gmail.com} \ $\vert$ \ USN: 1AT23IS151\\[1pt]
-\href{https://linkedin.com/in/sharan-n-k-2k4}{linkedin.com/in/sharan-n-k-2k4} \ $\vert$ \
-\href{https://github.com/sharannandakumar2k4}{github.com/sharannandakumar2k4} \ $\vert$ \
-\href{https://leetcode.com/u/sharannandakumar2k4}{leetcode.com/u/sharannandakumar2k4}
-\end{center}
-\vspace{-14pt}
+📈 Current CGPA: **7.9 / 10**
 
-%==================== EDUCATION ====================
-\section*{Education}
-\role{Bachelor of Engineering, Information Science \& Engineering -- Atria Institute of Technology, Bengaluru}{2022 -- 2027}{CGPA: 7.9 / 10}
-\begin{itemize}
-\item \textbf{Pre-University Course (PUC):} 89\% \hfill \textbf{10th Std. (SSLC):} 96\%
-\end{itemize}
+💻 Passionate about **Automation Track, Data Infrastructure, and Technical Product Scoping**
 
-%==================== SUMMARY ====================
-\section*{Professional Summary}
-Information Science \& Engineering undergraduate combining an engineering mindset with strong core software development principles and an active focus on test automation pipelines. Proficient in designing automated testing scripts, writing optimized backend validation routes, and managing relational system schemas. A proactive developer and problem-solver eager to leverage JavaScript, REST APIs, and autonomous debugging frameworks to build intelligent, resilient quality systems at GoComet.
+🧠 Solving computational logic puzzles on **LeetCode**
 
-%==================== TECHNICAL SKILLS ====================
-\section*{Technical Skills}
-\begin{itemize}
-\item \textbf{Engineering & Automation Track:} Automated Test Execution Concepts, Workflow Observability, Structural Bug Diagnosis, Script Validation, Web \& API Evaluation, System Assertions
-\item \textbf{Languages & Core Coding:} JavaScript (ES6+), Java, Python, HTML5, CSS3, Data Structures \& Algorithms (DSA), Object-Oriented Programming (OOP)
-\item \textbf{Backend & Integrations:} Node.js, Express.js, REST API Design, JSON Payload Processing, Network Route Validations
-\item \textbf{Databases & Infrastructure:} SQL (MySQL), Relational Database Management (DBMS), Schema Architecture Optimization, Git/GitHub Version Control
-\item \textbf{Tools & Workflows:} Postman API Client, VS Code, Jupyter Notebook, Pandas Data Wrangling, Agile/Scrum Methodologies
-\end{itemize}
+🌱 Currently mastering:
+- Playwright & Autonomous Testing Agents
+- Enterprise B2B SaaS Pipeline Building
+- LangChain & CrewAI Frameworks
+- High-Scale Query Optimization
 
-%==================== EXPERIENCE ====================
-\section*{Internship Experience}
-\role{Java Development Intern}{Embrizon Technologies}{Bengaluru, India}
-\begin{itemize}
-\item Programmed procedural backend processing workflows using structured Java and Object-Oriented Design (OOP) principles.
-\item Built robust structural validation modules and multi-tier exception routing to handle error boundaries across localized configurations.
-\item Handled end-to-end exception logging and runtime sanity checks, preventing execution crashes before build compilation cycles.
-\item Coordinated closely with development peers to perform structural code refactoring, system regression sweeps, and routine optimization testing.
-\end{itemize}
+🎯 **Goal:** Bridge the gap between intricate technical architectures and scalable enterprise solutions as an AI-First Engineer or High-Yield Technical SDR.
 
-%==================== PROJECTS ====================
-\section*{Projects}
+---
 
-\role{LangAssist -- Asynchronous AI Agent Platform \& Testing Track}{Team Project}{JavaScript, Google Gemini API, Git/GitHub, Agile Frameworks}
-\begin{itemize}
-\item Co-developed a modular language processing platform, setting up runtime metrics tracking across heavy asynchronous API data streams.
-\item Programmed verification scripts to monitor dynamic JSON structural payloads, managing incremental script updates cleanly inside Git.
-\item Configured automated test case strategies to capture backend failures, maintaining baseline execution security across development sprints.
-\end{itemize}
+# 🛠 Tech Stack
 
-\role{Data-Driven Analytics Engine \& Observability Pipeline}{Personal Project}{Python, SQL, Advanced MS Excel, Power BI}
-\begin{itemize}
-\item Devised an algorithmic processing suite cleaning, normalizing, and structuring multi-source metric records into single database targets.
-\item Wrote optimized relational SQL queries to execute thorough gap analysis and isolate performance bottlenecks across mock data clusters.
-\item Tracked runtime error arrays to populate detailed validation summary reports, ensuring data consistency across deployment checkpoints.
-\end{itemize}
+### Languages & Core Engineering
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-%==================== ACTIVITIES & COMPETITIVE PROFILE ====================
-\section*{Activities & Hobbies}
-\begin{itemize}
-\item \textbf{Competitive Programming:} Resolving multi-tier Data Structures and Algorithms logic puzzles on LeetCode to continuously advance system problem-solving metrics.
-\item \textbf{Technical Leadership (Sergeant-at-Arms, Rotaract Club):} Structured workplans, managed distributed technical task tracking paths, and engineered report documentation profiles for executive board evaluations.
-\end{itemize}
+### Quality Engineering & Automation Track
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-%==================== CERTIFICATIONS ====================
-\section*{Certifications}
-\begin{itemize}
-\item Git, GitHub, and Tech Architecture Project Essentials $\vert$ React.js and Modern JavaScript Fundamentals $\vert$ Complete Data Science and Analytics Fundamentals $\vert$ Advanced Software Engineering and Quality Automation Frameworks
-\end{itemize}
+### Data Analytics & Business Intelligence
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-\end{document}
+---
+
+# 🚀 Featured Projects
+
+## 🤖 LangAssist — Asynchronous AI Agent Platform & Testing Track
+A collaborative platform centered on real-time language model token performance analytics and live validation pipeline testing.
+* Managed cross-functional branch structures within continuous **Git pipelines** to maintain deployment parity.
+* Programmed rigorous test verification logic to actively capture data exceptions across heavy asynchronous **Google Gemini API** data flows.
+* Configured structural JSON payload check models to validate system execution boundaries dynamically.
+
+## 📊 Data-Driven Analytics Engine & Observability Pipeline
+An automated data framework designed to capture, transform, and map multi-source corporate metrics into single database systems.
+* Engineered complex data models using **Python** to ingest, clean, and deduplicate unstructured file profiles.
+* Wrote highly optimized relational **SQL queries** to run precise gap/impact analysis, isolating performance execution lag.
+* Mapped pipeline health telemetry into interactive **Power BI** dashboards for actionable validation feedback loops.
+
+---
+
+# 💼 Experience Track
+### ☕ Java Development Intern — Embrizon Technologies
+* Programmed backend procedural sub-modules utilizing strict Object-Oriented Design (OOP) principles.
+* Conducted structured code validation sweeps, runtime diagnostics, and regression checks before product deliverables.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sharannandakumar2k4&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharannandakumar2k4&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sharan-n-k-2k4">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/sharannandakumar2k4">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/sharannandakumar2k4">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:sharannandakumar2k4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+<h3 align="center">
+⭐ Thanks for stopping by! Let's build something exceptional. ⭐
+</h3>
